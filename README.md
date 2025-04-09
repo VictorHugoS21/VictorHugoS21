@@ -17,7 +17,7 @@
             src="https://custom-icon-badges.demolab.com/github/followers/VictorHugoS21?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo">
+    
 </p>
 
 ---
