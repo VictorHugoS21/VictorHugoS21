@@ -1,7 +1,5 @@
-## Hi there 👋 my name is Victor Hugo and I'm 26 years old. I'm currently studying Systems Development at Senac. I really like learning new things and studying new languages.
-- 🔭 I’m currently working on fullstack
-- 🌱 I’m currently learning React
--  📫 How to reach me: victorhugo21006@live.com
+## 👨‍💻 Victor Hugo 
+Me chamo Victor Hugo, tenho 26 anos e sou natural de São Paulo. Sou formado em Arquitetura & Urbanismo pela FAU-USP. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas pelo SENAC. Sou apaixonado por tecnologia e desenvolvimento e estou buscando me atualizar continuamente sobre as novas tecnologias.
 
  <a href="https://github.com/VictorHugoS21?tab=repositories&sort=stargazers">
         <img 
@@ -17,7 +15,8 @@
             src="https://custom-icon-badges.demolab.com/github/followers/VictorHugoS21?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    
+    <a href="https://www.linkedin.com/in/victor-hsilva/"><img width="28px" height="28px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
+ 
 </p>
 
 ---
@@ -91,7 +90,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoS21&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoS21&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
