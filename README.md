@@ -1,13 +1,14 @@
 ## 👨‍💻 Victor Hugo 
 Me chamo Victor Hugo, tenho 26 anos e sou natural de São Paulo. Sou formado em Arquitetura & Urbanismo pela FAU-USP. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas pelo SENAC. Sou apaixonado por tecnologia e desenvolvimento e estou buscando me atualizar continuamente sobre as novas tecnologias.
 
+<p>
  <a href="https://github.com/VictorHugoS21?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/VictorHugoS21?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
-    </a>
+ </a>
     <a href="https://github.com/VictorHugoS21?tab=followers">
         <img 
             alt="Seguidores" 
@@ -16,7 +17,6 @@ Me chamo Victor Hugo, tenho 26 anos e sou natural de São Paulo. Sou formado em 
         />
     </a>
     <a href="https://www.linkedin.com/in/victor-hsilva/"><img width="28px" height="28px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
- 
 </p>
 
 ---
